@@ -1,2 +1,2 @@
 # Pomodoro App
-Stack: HTML,SCC,JavaScript
+Stack: HTML,CSS,JavaScript
